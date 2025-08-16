@@ -23,6 +23,7 @@ The **Personal Finance Dashboard** is an interactive Power BI report designed to
 ## 📷 Dashboard Preview
 
 ![Dashboard Preview](screenshot.png)
+<img width="1302" height="737" alt="image" src="https://github.com/user-attachments/assets/5bd5c040-a392-49bb-ad67-6b54d5371e64" />
 
 ## 📌 How to Use
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
